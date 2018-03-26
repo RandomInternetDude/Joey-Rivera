@@ -5,34 +5,7 @@ Hello my name is Joseph Rivera, I have major interest in the web-development fie
 and much more. I also took many other courses that taught me about how to program in <a href="https://docs.angularjs.org/guide">AngularJS</a>, 	<a href="https://www.python.org/">Python</a>, 	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">C#</a>, and 	<a href="https://www.tutorialspoint.com/cplusplus/index.htm">C++</a>. Along with a course on building AI, and developing games with the <a href="https://unity3d.com/">Unity</a> engine.
 
 
-### Markdown
+### The Break Down
+For the past few years I've worked as a valet, and some how found my way behind a bar. What I've learned from those small jobs are that I hate bartending and will never be able to pay my bills as a valet. I sought out that I needed an escape from these jobs and going to college wasn't an option in my case. Unfortunatly unable to afford to go to school the "old fashioned" way I decided to find an alternative to learn a skill that would potentially put me in a career that I would enjoy. Thats where <a href="https://www.udemy.com/">Udemy</a> came in. Inspired by a video on facebook I went to the site and ventured on into finding different courses in the web development field. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joey7040/first-one/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
