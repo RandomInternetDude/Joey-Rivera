@@ -1,6 +1,8 @@
 # Welcome to my first repository on github
 
-Hello my name is Joseph Rivera, I have major interest in the web-development field. It all started on <a href="https://www.udemy.com/">Udemy</a>. I took <a href="https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview">The Web Developer Bootcamp</a> by Colt Steele that led me to learn about Html5, CSS3, VanillaJS, jQuery, NodeJS and much more. I also took many other courses that taught me about how to program in AngularJS, Python, C#, and C++. I also took a course on building AI, and devolping games with the <a href="https://unity3d.com/">Unity</a> engine.
+Hello my name is Joseph Rivera, I have major interest in the web-development field. It all started on <a href="https://www.udemy.com/">Udemy</a>. I took <a href="https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview">The Web Developer Bootcamp</a> by Colt Steele that led me to learn about <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference">HTML5</a>
+, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS3</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>, <a href="http://code.jquery.com/">jQuery</a>, <a href="https://nodejs.org/en/about/">NodeJS</a>,	<a href="https://stackoverflow.com/questions/20435653/what-is-vanillajs">VanillaJS</a>
+and much more. I also took many other courses that taught me about how to program in AngularJS, Python, C#, and C++. Along with a course on building AI, and developing games with the <a href="https://unity3d.com/">Unity</a> engine.
 
 
 ### Markdown
