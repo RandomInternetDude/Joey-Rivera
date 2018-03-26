@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+# Welcome to my first repository on github
 
-You can use the [editor on GitHub](https://github.com/joey7040/first-one/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Joseph Rivera, I have major interest in the tech field. It all started on udemy.com. I took The web evoloper bootcamp by Colt Steele that led me to learn about Html5, CSS3, VanillaJS, jQuery and NodeJS. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
