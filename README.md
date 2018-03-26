@@ -1,6 +1,6 @@
 # Welcome to my first repository on github
 
-My name is Joseph Rivera, I have major interest in the tech field. It all started on udemy.com. I took The web evoloper bootcamp by Colt Steele that led me to learn about Html5, CSS3, VanillaJS, jQuery and NodeJS. 
+My name is Joseph Rivera, I have major interest in the tech field. It all started on udemy.com. I took "The web devoloper bootcamp" by Colt Steele that led me to learn about Html5, CSS3, VanillaJS, jQuery, NodeJS and much more. I also took many other courses that taught me about how to program in AngularJS, Python, C#, and C++. 
 
 
 ### Markdown
